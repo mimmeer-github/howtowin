@@ -7,7 +7,10 @@ We will show you:
 - The essentials
   - How to set up
   - How to use File Explorer
-  - How to **not** use Edge for long
+- How to install some other essentials
+  - Google Chrome
+  - Google Drive
+  - .net Runtime
 - Cool software!
 - And more!
 
