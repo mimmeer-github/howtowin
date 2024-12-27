@@ -3,7 +3,7 @@ const win10 = document.getElementById("start10");
 const win8 = document.getElementById("start8");
 const win7 = document.getElementById("start7");
 const next = document.getElementById("next");
-let select = 11
+var select = 11
 
 function click11() {
 	win11.className = "primary";
