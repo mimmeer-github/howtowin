@@ -10,7 +10,7 @@ function click11() {
 	win10.className = "second";
 	win8.className = "danger";
 	win7.className = "danger";
-	let select = 11
+	select = 11
 }
 
 function click10() {
@@ -18,7 +18,7 @@ function click10() {
 	win10.className = "primary";
 	win8.className = "danger";
 	win7.className = "danger";
-	let select = 10
+	select = 10
 }
 
 function click8() {
@@ -26,7 +26,7 @@ function click8() {
 	win10.className = "second";
 	win8.className = "dansel";
 	win7.className = "danger";
-	let select = 8
+	select = 8
 }
 
 function click7() {
@@ -34,7 +34,7 @@ function click7() {
 	win10.className = "second";
 	win8.className = "danger";
 	win7.className = "dansel";
-	let select = 7
+	select = 7
 }
 
 function nextPage() {
