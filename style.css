@@ -3,26 +3,26 @@
   src: url(static/fonts/font11.ttf);
 }
 
+* {
+	font-family: font;
+}
+
 .content {
-	overflow: auto;
-  border-radius: 16px;
-  background-color: rgba(255, 255, 255, 0.90);
-  padding: 19px;
-  width: 1000px;
-  margin: auto;
-  display: flex;
-  justify-content: center;
+display: flex;
   align-items: center;
-  height: 90vh;
+overflow: auto;
+  margin: auto;
   text-align: center;
+	height: 90vh;
 }
 
 .howtocard {
-	height: 580px;
 	display: flex;
   justify-content: center;
   align-items: center;
-}
+	border-radius: 16px;
+  background-color: rgba(255, 255, 255, 0.80);
+  width: 1000px;
 
 #right-card {
 	text-align: left !important;
@@ -46,11 +46,6 @@
   -ms-filter: blur(190px);
   filter: blur(190px);
   opacity: 0.8;
-}
-
-* {
-	font-family: font;
-	border: 5vh;
 }
 
 .warn {
